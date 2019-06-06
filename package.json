@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mountainfirefly <pankajdcoder@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "2.8.5",
+    "gatsby-theme-startgatsby": "1.0.9-2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  }
+}

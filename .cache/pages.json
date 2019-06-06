@@ -1,0 +1,52 @@
+[
+    {
+        "componentChunkName": "component---node-modules-gatsby-theme-startgatsby-src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-theme-startgatsby-src-pages-404-js",
+        "jsonName": "404-html-516",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-theme-startgatsby-src-pages-404-js",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-theme-startgatsby-src-pages-contact-mdx",
+        "jsonName": "contact-26a",
+        "path": "/contact/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-theme-startgatsby-src-components-tags-js",
+        "jsonName": "tags-node-445",
+        "path": "/tags/node"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-theme-startgatsby-src-components-tags-js",
+        "jsonName": "tags-nodemon-758",
+        "path": "/tags/nodemon"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-theme-startgatsby-src-components-tags-js",
+        "jsonName": "tags-react-df8",
+        "path": "/tags/react"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-theme-startgatsby-src-components-tags-js",
+        "jsonName": "tags-redux-eb8",
+        "path": "/tags/redux"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-theme-startgatsby-src-components-post-js",
+        "jsonName": "why-react-7be",
+        "path": "/why-react"
+    }
+]
